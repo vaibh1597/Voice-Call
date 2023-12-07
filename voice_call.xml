@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Dial>
+        <!-- Replace 'to' attribute with the phone number you want to call -->
+        <Number to="+918003892925"></Number>
+    </Dial>
+</Response>
